@@ -35,3 +35,4 @@ Additionally, credits to following font family projects:
 - [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono/tree/master)
 - [LxgwWenKai](https://github.com/lxgw/LxgwWenKai)
 - [PT Mono](https://www.paratype.com/fonts/pt/pt-mono)
+- [IBM Plex](https://github.com/IBM/plex)
