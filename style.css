@@ -1,19 +1,20 @@
+@import url(https://fonts.bunny.net/css?family=space-grotesk:300,400,500,600,700|space-mono:400,400i,700,700i);
+
 @font-face {
-    font-family: 'IBM Plex Sans SC';
+    font-family: 'Space Grotesk','IBM Plex Sans SC';
     src: url('/fonts/IBMPlex/IBMPlexSansSC2.ttf') format('truetype');
     font-weight: 100 900;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'IBM Plex Mono';
-    src: url('/fonts/IBMPlex/IBMPlexMono-Regular.ttf') format('truetype');
+    font-family: 'Space Mono';
     font-weight: 100 900;
     font-style: normal;
 }
 
 body {
-    font-family: 'IBM Plex Sans SC', sans-serif;
+    font-family: 'Space Grotesk','IBM Plex Sans SC', sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -34,7 +35,7 @@ header {
 }
 
 h1, h2 {
-    font-family: 'IBM Plex Mono', 'IBM Plex Sans SC', monospace;
+    font-family: 'Space Mono', 'IBM Plex Sans SC', monospace;
     color: #1f78d1;
     font-weight: 700;
 }
@@ -91,7 +92,7 @@ a:hover {
 }
 
 code {
-    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'Space Mono', monospace;
     background-color: #f0f4f8;
     padding: 0.2rem 0.4rem;
     border-radius: 4px;
